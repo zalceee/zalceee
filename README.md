@@ -2,95 +2,112 @@ Hi, I'm Zalcee Songodanan 👋
 
 IT Officer @ Terry Retail Concept Inc. (Havaianas)
 
-I'm an IT professional focused on building practical solutions, automating workflows, managing data, and keeping technology infrastructure reliable. I enjoy turning repetitive processes into efficient systems and working across both software and infrastructure.
+I'm an IT professional focused on retail IT operations, POS support, store technology, and automation.
+
+At Terry Retail Concept Inc., I support Havaianas stores by keeping their day-to-day technology running smoothly — from POS systems and IT peripherals to troubleshooting, maintenance, and technical support. I also build automation and internal solutions when there's an opportunity to make processes faster and more efficient.
+
+💼 What I Do
+
+🏪 Support retail stores with their IT needs
+
+🖥️ Troubleshoot and maintain POS systems
+
+🖨️ Support IT peripherals such as printers, scanners, and other store devices
+
+🔧 Diagnose and resolve hardware and software issues
+
+🌐 Assist with store IT infrastructure and connectivity
+
+🔄 Build automation workflows to reduce repetitive tasks
+
+📊 Process and analyze operational data
+
+🛠️ Develop internal tools and scripts when needed
+
+🐧 Perform Linux administration and system maintenance
 
 🛠️ Tech Stack
-Languages & Development
+💻 Development
 
-JavaScript — scripting, web development, automation
+JavaScript
 
-Python — automation, data processing, scripting
+Python
 
-PHP — backend and web development
+PHP
 
-Google Apps Script — Google Workspace automation
+Google Apps Script
 
-Automation & Data
+🔄 Automation
 
-n8n — workflow automation and integrations
+n8n
 
-Pandas — data analysis and transformation
+Google Apps Script
 
-MySQL — relational databases
+Python scripting
 
-DuckDB — analytical workloads and data processing
+📊 Data & Databases
 
-Tools & Infrastructure
+MySQL
 
-Git — version control and collaboration
+DuckDB
 
-Linux — system administration, server management, and troubleshooting
+Pandas
 
-💼 What I Work On
+🖥️ IT & Infrastructure
 
-🔄 Business process automation
+Linux Administration
 
-🤖 Workflow integrations with n8n
+POS Systems
 
-📊 Data processing and reporting
+IT Peripherals
 
-🗄️ Database management
+Hardware & Software Troubleshooting
 
-🐧 Linux administration
+Git
 
-🔧 IT infrastructure and technical support
+🚀 My Approach
 
-💻 Internal tools and business applications
+I enjoy working at the intersection of IT support, automation, and software development.
 
-☁️ Google Workspace automation
+Store Problem
+     ↓
+Troubleshoot
+     ↓
+Find the Root Cause
+     ↓
+Fix / Automate
+     ↓
+Make the Process Better
 
-🔐 System maintenance and operational reliability
 
-🚀 Current Focus
+Whether it's fixing a POS issue in a store, troubleshooting a peripheral, writing a script, or automating a repetitive workflow, my goal is to make technology reliable, practical, and easier to manage.
 
-I'm interested in combining software development, automation, data, and IT infrastructure to create solutions that make everyday business operations simpler and more efficient.
-
-Code → Automate → Analyze → Improve
-
-🧰 Technologies I Use
+🧰 Technologies
 <p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" /> <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> </p>
-📌 Featured Areas
-role: IT Officer
-company: Terry Retail Concept Inc. / Havaianas
+🎯 Areas of Interest
 
-focus:
-  - IT Operations
-  - Automation
-  - Data
-  - Software Development
-  - Infrastructure
+Retail Technology
 
-stack:
-  languages:
-    - JavaScript
-    - Python
-    - PHP
+POS Systems
 
-  automation:
-    - n8n
-    - Google Apps Script
+IT Operations
 
-  data:
-    - MySQL
-    - DuckDB
-    - Pandas
+Process Automation
 
-  tools:
-    - Git
-    - Linux
+Workflow Automation
 
-🤝 Let's Connect
+Data Engineering
 
-I'm always interested in learning, building useful tools, automating processes, and solving interesting technical problems.
+Scripting & Tooling
 
-Thanks for visiting my profile! 🚀
+Linux Administration
+
+Business Technology
+
+📌 Currently
+
+IT Officer — Terry Retail Concept Inc. / Havaianas
+
+Supporting retail stores, solving technology problems, maintaining POS and IT peripherals, and creating automation that helps make everyday operations more efficient.
+
+Thanks for visiting my profile! 👋
