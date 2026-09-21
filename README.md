@@ -18,7 +18,7 @@ At Terry Retail Concept Inc., I support Havaianas stores by keeping their day-to
 
 🌐 Assist with store IT infrastructure and connectivity
 
-🔄 Build automation workflows to reduce repetitive tasks
+<!-- 🔄 Build automation workflows to reduce repetitive tasks -->
 
 <!-- 📊 Process and analyze operational data -->
 
