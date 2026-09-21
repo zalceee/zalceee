@@ -68,7 +68,7 @@ Git
 🚀 My Approach
 
 I enjoy working at the intersection of IT support, automation, and software development.
-
+<!--
 Store Problem
      ↓
 Troubleshoot
@@ -79,7 +79,7 @@ Fix / Automate
      ↓
 Make the Process Better
 
-
+-->
 Whether it's fixing a POS issue in a store, troubleshooting a peripheral, writing a script, or automating a repetitive workflow, my goal is to make technology reliable, practical, and easier to manage.
 
 🧰 Technologies
