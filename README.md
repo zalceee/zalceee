@@ -26,7 +26,7 @@ At Terry Retail Concept Inc., I support Havaianas stores by keeping their day-to
 
 <!--🐧 Perform Linux administration and system maintenance -->
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack <br>
 💻 Development
 
 JavaScript
