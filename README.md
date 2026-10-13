@@ -1,6 +1,6 @@
-Hi, I'm Zalcee Songodanan 👋
+Hi, I'm **Zalcee Songodanan** 👋
 
-IT Officer @ Terry Retail Concept Inc. (Havaianas)
+IT Officer @ **Terry Retail Concept Inc. (Havaianas)**
 
 I'm an IT professional focused on retail IT operations, POS support, store technology, and automation.
 
