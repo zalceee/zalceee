@@ -4,7 +4,7 @@ IT Officer @ **Terry Retail Concept Inc. (Havaianas)**
 
 I'm an IT professional focused on retail IT operations, POS support, store technology, and automation.
 
-At Terry Retail Concept Inc., I support Havaianas stores by keeping their day-to-day technology running smoothly — from POS systems and IT peripherals to troubleshooting, maintenance, and technical support. I also build automation and internal solutions when there's an opportunity to make processes faster and more efficient.
+At Terry Retail Concept Inc., I support Havaianas stores by keeping their day-to-day technology running smoothly from POS systems and IT peripherals to troubleshooting, maintenance, and technical support. I also build automation and internal solutions when there's an opportunity to make processes faster and more efficient.
 
 💼 What I Do
 
