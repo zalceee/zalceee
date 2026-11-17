@@ -1,7 +1,29 @@
 # 💫 About Me:
-Hi, I'm Zalcee Songodanan 👋<br><br>IT Officer @ Terry Retail Concept Inc. (Havaianas)<br><br>I'm an IT professional focused on retail IT operations, POS support, store technology, and automation.<br><br>At Terry Retail Concept Inc., I support Havaianas stores by keeping their day-to-day technology running smoothly from POS systems and IT peripherals to troubleshooting, maintenance, and technical support. I also build automation and internal solutions when there's an opportunity to make processes faster and more efficient.<br><br>💼 What I Do<br><br>🏪 Support retail stores with their IT needs<br><br>🖥️ Troubleshoot and maintain POS systems<br><br>🖨️ Support IT peripherals such as printers, scanners, and other store devices<br><br>🔧 Diagnose and resolve hardware and software issues<br><br>🌐 Assist with store IT infrastructure and connectivity<br><br>🛠️ Develop internal tools and scripts when needed<br><br>🛠️ Tech Stack<br>💻 Development<br><br>JavaScript<br><br>Python<br><br>PHP<br><br>Google Apps Script<br><br>🔄 Automation<br><br>n8n<br><br>Google Apps Script<br><br>Python scripting<br><br>📊 Data & Databases<br><br>MySQL<br><br>DuckDB<br><br>Pandas<br><br>🖥️ IT & Infrastructure<br><br>Linux Administration<br><br>POS Systems<br><br>IT Peripherals<br><br>Hardware & Software Troubleshooting<br><br>Git<br><br>🚀 My Approach<br><br>I enjoy working at the intersection of IT support, automation, and software development.<br><br>Whether it's fixing a POS issue in a store, troubleshooting a peripheral, writing a script, or automating a repetitive workflow, my goal is to make technology reliable, practical, and easier to manage.<br><br>🧰 Technologies<br><br>         <br><br>🎯 Areas of Interest<br>Retail Technology<br><br>POS Systems<br><br>IT Operations<br><br>Process Automation<br><br>Workflow Automation<br><br>Data Engineering<br><br>Scripting & Tooling<br><br>Linux Administration<br><br>Business Technology<br><br>📌 Currently<br><br>IT Officer — Terry Retail Concept Inc. / Havaianas<br><br>Supporting retail stores, solving technology problems, maintaining POS and IT peripherals, and creating automation that helps make everyday operations more efficient.<br><br>Thanks for visiting my profile! 👋
+Hi, I’m Zalcee Songodanan 👋
 
+IT Officer @ Terry Retail Concept Inc. (Havaianas)
 
+I’m an IT professional specializing in retail IT operations, POS support, troubleshooting, and workflow automation.
+
+💼 What I Do
+
+Support retail stores and POS systems
+
+Troubleshoot hardware, software, and IT peripherals
+
+Maintain store technology and connectivity
+
+Develop internal tools and automation
+
+🎯 Interests
+
+Retail Technology · IT Operations · Process Automation · Software Development · Data Engineering · Linux Administration
+
+🚀 My Goal
+
+Making technology more reliable and business processes more efficient through IT support, scripting, and automation.
+
+Thanks for visiting my profile! 👋
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.zalcee) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zalceee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zalceeee) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Zalcee Songodanan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zalcee.songodanan@trcon.ph) 
 
